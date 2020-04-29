@@ -1,0 +1,9 @@
+#Dont track.
+#Laboratorio4.
+
+Laboratorio4/build/*
+Laboratorio4/dist/*
+Laboratorio4/nbproject/*
+Laboratorio4/.dep.inc
+Laboratorio4/Makefile
+Laboratorio4/main.exe
